@@ -6,7 +6,7 @@ A practical repository for learning and implementing **Web Accessibility** using
 
 * Semantic HTML
 * Accessibility Basics
-* ARIA (Accessible Rich Internet Applications)
+* ARIA (Accessible Rich Internet Applications) 
 * Keyboard Navigation
 * Screen Reader Support
 * Accessible Forms
