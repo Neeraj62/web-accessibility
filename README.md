@@ -1,6 +1,6 @@
 # Web Accessibility 🌐
 
-A practical repository for learning and implementing **Web Accessibility** using HTML, CSS,  JavaScript, ARIA, and WCAG best practices.
+A practical repository for learning and implementing **Web Accessibility** using HTML, CSS, JavaScript, ARIA, and WCAG best practices.
 
 ## 📚 Topics Covered
 
